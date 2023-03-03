@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital@0;1&display=swap');
+
+summary{
+    color: aqua;
+    font-size: 45px;
+}
+summary:hover{
+    cursor: pointer;
+}
+details a{
+    color: #5e0244;
+    text-decoration: none;
+    font-size: 35px;
+}
+details a:hover{
+    color: #ab002b;
+    text-decoration: underline;
+    cursor: pointer;
+}
+details a:visited{
+    color: #5e0244;
+    text-decoration: none;
+}
+a{
+    color:#5e0244;
+}
+.parts{
+    font-size: 45px;
+}
+h1{
+    color:#5e0244;
+    text-align: left;
+}
+body{
+    background-color: #d6a7d3;
+    font-family: 'Shantell Sans', cursive;
+ 
+}
+p{
+    color:#5e0244;
+    font-size: 30px;
+    font-family: 'Shantell Sans';
+    background-color: #d6a7d3;
+    height: fit-content;
+    width: 700px;
+    border: #5e0244 6px solid;
+
+    border-style:ridge;
+    border-radius: 15px 50px;
+}
+sup{
+    visibility: hidden;
+}
+.txt{
+    color:#5e0244;
+    background-color: #d6a7d3;
+    height: fit-content;
+    width: 700px;
+    border: #5e0244 6px solid;
+    border-style:ridge;
+}
